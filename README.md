@@ -8,6 +8,13 @@ Plan de estudios actualizado – Acuerdo 158 de 2025
 - Rutas formativas desde el semestre VI
 
 ## Estructura
-- Semestres I a V: Formación básica y disciplinar
-- Semestres VI a IX: Rutas formativas
-- Semestre X: Práctica profesional
+# Malla Curricular – Enfermería (UdeA)
+
+Basada en el Acuerdo 158 de 2025.
+
+## Semestres
+- [Semestre I](semestre-1.md)
+- [Semestre II](semestre-2.md)
+- [Semestre III](semestre-3.md)
+- [Semestre IV](semestre-4.md)
+- [Semestre V](semestre-5.md)
